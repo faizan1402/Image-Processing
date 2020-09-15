@@ -23,7 +23,10 @@
 ![8-bit-256-x-256-Grayscale-Lena-Image](https://user-images.githubusercontent.com/44410930/93210897-121c3580-f77e-11ea-8845-2a2bc7a443ea.png)
      
      -> Binary Image
-     ![Copy_Binary Image](https://user-images.githubusercontent.com/44410930/93211281-a2f31100-f77e-11ea-840b-f5ff90593c73.png)
+     .
+     
+![Copy_lena](https://user-images.githubusercontent.com/44410930/93211555-07ae6b80-f77f-11ea-8a84-50af090878d2.png)
+
 
      
 
