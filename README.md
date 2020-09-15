@@ -5,9 +5,10 @@
  
  How to install all the packages?
  Open cmd prompt then type pip install
- -> python get-pip.py
- -> pip install opencv-python
- -> pip install numpy
- -> pip install scipy
- -> pip install matplotlib
- -> pip install pandas
+ 
+  -> python get-pip.py
+  -> pip install opencv-python
+  -> pip install numpy
+  -> pip install scipy
+  -> pip install matplotlib
+  -> pip install pandas
