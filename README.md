@@ -21,6 +21,9 @@
     -> Grayscale Image
         
 ![8-bit-256-x-256-Grayscale-Lena-Image](https://user-images.githubusercontent.com/44410930/93210897-121c3580-f77e-11ea-8845-2a2bc7a443ea.png)
+     
+     -> Binary Image
+     
 
 
 
