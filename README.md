@@ -17,5 +17,8 @@
     
    ![lena](https://user-images.githubusercontent.com/44410930/93210084-a71e2f00-f77c-11ea-972b-f54e134e5eaf.png)
    ![lena](images/lena2.jpg)
+   
+   Binary Image
+   <img="images/>
 
     
