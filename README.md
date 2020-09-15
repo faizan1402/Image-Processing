@@ -15,5 +15,5 @@
   
     How to read the image?
     
-    <img src = "images/github-lena.png">
+    <img src="Images/github-lena.png" >
     
