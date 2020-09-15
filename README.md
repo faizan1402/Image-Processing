@@ -12,3 +12,8 @@
   -> pip install scipy
   -> pip install matplotlib
   -> pip install pandas
+  
+    How to read the image?
+    
+    <img src = "images/github-lena.png">
+    
