@@ -18,11 +18,12 @@
    ![lena](https://user-images.githubusercontent.com/44410930/93210084-a71e2f00-f77c-11ea-972b-f54e134e5eaf.png)
    ![lena](images/lena2.jpg)
    
-    -> Grayscale Image
+    -> Grayscale Image :Grayscale image black and white color combination
         
 ![8-bit-256-x-256-Grayscale-Lena-Image](https://user-images.githubusercontent.com/44410930/93210897-121c3580-f77e-11ea-8845-2a2bc7a443ea.png)
      
-     -> Binary Image
+     -> Binary Image :A binary image is one that consists of pixels that can have one of exactly two colors,
+        usually black and white. Binary images are also called bi-level or two-leve
      .
      
 ![Copy_lena](https://user-images.githubusercontent.com/44410930/93211555-07ae6b80-f77f-11ea-8a84-50af090878d2.png)
