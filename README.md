@@ -36,6 +36,12 @@
  
  -> Adaptive Thresholding :
  ![Sudoku3](https://user-images.githubusercontent.com/44410930/93368310-6fda7b80-f86b-11ea-97fd-80672a7c73cb.jpg)
+ 
+![th1](https://user-images.githubusercontent.com/44410930/93369236-b41a4b80-f86c-11ea-90c6-42e786843a81.PNG)
+![th2](https://user-images.githubusercontent.com/44410930/93369252-bda3b380-f86c-11ea-9237-44c452e4e70b.PNG)
+
+
+
 
 
 
