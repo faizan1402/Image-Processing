@@ -31,6 +31,9 @@
     -> Image Blending :
          
 ![blending_image](https://user-images.githubusercontent.com/44410930/93364983-d8732980-f866-11ea-8917-c9f14c227858.png)
+.
+![orangeandapple](https://user-images.githubusercontent.com/44410930/93365354-4fa8bd80-f867-11ea-8e8f-00aee20be4ba.jpg)
+
 
 
 
