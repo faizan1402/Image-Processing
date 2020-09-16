@@ -27,6 +27,12 @@
      .
      
 ![Copy_lena](https://user-images.githubusercontent.com/44410930/93211555-07ae6b80-f77f-11ea-8a84-50af090878d2.png)
+    
+    -> Image Blending :
+         
+![blending_image](https://user-images.githubusercontent.com/44410930/93364983-d8732980-f866-11ea-8917-c9f14c227858.png)
+
+
 
 
      
