@@ -33,6 +33,10 @@
 ![blending_image](https://user-images.githubusercontent.com/44410930/93364983-d8732980-f866-11ea-8917-c9f14c227858.png)
 .
 ![orangeandapple](https://user-images.githubusercontent.com/44410930/93365354-4fa8bd80-f867-11ea-8e8f-00aee20be4ba.jpg)
+ 
+ -> Adaptive Thresholding :
+ ![Sudoku3](https://user-images.githubusercontent.com/44410930/93368310-6fda7b80-f86b-11ea-97fd-80672a7c73cb.jpg)
+
 
 
 
