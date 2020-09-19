@@ -52,6 +52,23 @@
  
 ![img_gradient_sobel_combined](https://user-images.githubusercontent.com/44410930/93670690-dd301b80-faba-11ea-9c07-527c90828de5.PNG)
 
+-> Histograms Graph Image :
+ -> Color Image to BGR Format :
+![histograms_bgr_format](https://user-images.githubusercontent.com/44410930/93670821-deae1380-fabb-11ea-8c29-f730f8a6931c.PNG)
+
+-> Histograms Gray Scale Image :
+![histograms_graph](https://user-images.githubusercontent.com/44410930/93670824-e79ee500-fabb-11ea-8010-ace854f97a67.PNG)
+
+-> Histograms calc graphs :
+
+![histograms_using_calc_method](https://user-images.githubusercontent.com/44410930/93670833-f5546a80-fabb-11ea-9883-322a85e6f8db.PNG)
+
+
+
+
+
+
+
 
 
  
