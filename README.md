@@ -39,6 +39,11 @@
  
 ![th1](https://user-images.githubusercontent.com/44410930/93369236-b41a4b80-f86c-11ea-90c6-42e786843a81.PNG)
 ![th2](https://user-images.githubusercontent.com/44410930/93369252-bda3b380-f86c-11ea-9237-44c452e4e70b.PNG)
+  
+  -> Extract Color Space :
+      
+      ![extract_color_space](https://user-images.githubusercontent.com/44410930/93670405-ce486980-fab8-11ea-86c7-a7bc53f47052.PNG)
+
 
 
 
