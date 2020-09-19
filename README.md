@@ -43,6 +43,18 @@
   -> Extract Color Space :
       
       ![extract_color_space](https://user-images.githubusercontent.com/44410930/93670405-ce486980-fab8-11ea-86c7-a7bc53f47052.PNG)
+      
+ -> Image Gradient :
+ 
+![image_gradient](https://user-images.githubusercontent.com/44410930/93670683-d1dcf000-faba-11ea-9129-98fb9ee2c172.png)
+
+-> Image Gradient Sobel Combined :
+ 
+![img_gradient_sobel_combined](https://user-images.githubusercontent.com/44410930/93670690-dd301b80-faba-11ea-9c07-527c90828de5.PNG)
+
+
+
+ 
 
 
 
